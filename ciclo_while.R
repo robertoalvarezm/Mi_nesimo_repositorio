@@ -2,7 +2,7 @@
 
 ### while (condición) expresión
 
-edad <- 21
+edad <- 20
 
 while (edad >18){
   edad <- edad-1
